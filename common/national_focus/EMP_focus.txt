@@ -196,7 +196,7 @@ focus_tree = {
 	#Access the Archives
 	focus = {
 		id = EMP_access_the_archives
-		icon = GFX_WIP_focus
+		icon = GFX_EMP_archives
 		relative_position_id = EMP_find_jeng_droga
 		cost = 7.2
 		x = 10
@@ -991,7 +991,7 @@ focus = {
 	#Strengthen Imperial Intelligence
 	focus = {
 		id = EMP_strengthen_imperial_intelligence
-		icon = GFX_WIP_focus
+		icon = GFX_EMP_intelligence
 		relative_position_id = EMP_evacuate_chandrila
 		cost = 2.9
 		x = 1
@@ -1087,7 +1087,7 @@ focus = {
 	#Clamp Down
 	focus = {
 		id = EMP_clamp_down
-		icon = GFX_WIP_focus
+		icon = GFX_EMP_clamp
 		relative_position_id = EMP_failed_censure
 		cost = 7.2
 		x = 3
